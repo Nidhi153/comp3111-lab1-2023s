@@ -1,2 +1,2 @@
-Name: Nidhi Pankaj Shah
+Name: Nidhi Shah
 ID: 12345678
